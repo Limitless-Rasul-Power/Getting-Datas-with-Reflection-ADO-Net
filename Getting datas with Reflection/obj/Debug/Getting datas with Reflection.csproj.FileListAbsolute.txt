@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Getting datas with Reflection\Getting datas with Reflection\bin\Debug\Getting datas with Reflection.exe.config
+C:\Users\Admin\source\repos\Getting datas with Reflection\Getting datas with Reflection\bin\Debug\Getting datas with Reflection.exe
+C:\Users\Admin\source\repos\Getting datas with Reflection\Getting datas with Reflection\bin\Debug\Getting datas with Reflection.pdb
+C:\Users\Admin\source\repos\Getting datas with Reflection\Getting datas with Reflection\obj\Debug\Getting datas with Reflection.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\Getting datas with Reflection\Getting datas with Reflection\obj\Debug\Getting datas with Reflection.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Getting datas with Reflection\Getting datas with Reflection\obj\Debug\Getting datas with Reflection.exe
+C:\Users\Admin\source\repos\Getting datas with Reflection\Getting datas with Reflection\obj\Debug\Getting datas with Reflection.pdb
